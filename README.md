@@ -45,10 +45,10 @@ Contributions are welcome! Please follow these steps:
 5. Open a Pull Request.
 
 ## License
-This project is licensed under the [License Name] license.
+This project is licensed under the [MIT] license.
 
 ## Contact
 For any inquiries, feel free to reach out:
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Email: [xpektra7@gmail.com]
+- GitHub: [https://github.com/Xpektra7/]
 
